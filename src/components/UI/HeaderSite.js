@@ -15,6 +15,7 @@ const HeaderSite = ()=>{
             <Link to="/" className="nav-link">Home</Link>
             <Link to="/store" className="nav-link">Store</Link>
             <Link to="/about" className="nav-link">About</Link>
+            <Link to="/contact" className="nav-link">Contact Us</Link>
           </Nav>
             </Navbar.Collapse>
             <Cart/>
